@@ -1,0 +1,1 @@
+# gmonit-1c-infobase-agent
